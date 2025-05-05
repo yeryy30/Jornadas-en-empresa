@@ -1,0 +1,39 @@
+Phishing: Técnica de ingeniería social usada para engañar a usuarios y obtener información confidencial como contraseñas o datos bancarios.
+
+Malware: Software malicioso diseñado para dañar, explotar o infiltrarse en sistemas informáticos (incluye virus, troyanos y ransomware).
+
+Ransomware: Tipo de malware que cifra archivos del usuario y exige un rescate para restaurar el acceso.
+
+Firewall: Sistema de seguridad que controla y filtra el tráfico de red para prevenir accesos no autorizados.
+
+Autenticación de dos factores (2FA): Método de seguridad que requiere dos formas de verificación para acceder a una cuenta.
+
+VPN (Virtual Private Network): Red privada virtual que protege la privacidad en línea cifrando el tráfico de internet.
+
+Ataque DDoS (Distributed Denial of Service): Saturación de un servidor con tráfico para que deje de funcionar correctamente.
+
+Zero Trust: Modelo de seguridad que asume que ninguna entidad, interna o externa, es confiable por defecto.
+
+Aprendizaje automático (Machine Learning): Rama de la IA que permite a las máquinas aprender de datos sin ser programadas explícitamente.
+
+Red neuronal: Modelo computacional inspirado en el cerebro humano, usado en tareas como reconocimiento de imágenes y voz.
+
+Procesamiento del lenguaje natural (PLN): Rama de la IA que permite a las máquinas entender y generar lenguaje humano.
+
+Algoritmo: Conjunto de instrucciones paso a paso usado para resolver problemas o tomar decisiones automatizadas.
+
+Deep Learning: Subcampo del aprendizaje automático que utiliza redes neuronales profundas para aprender de grandes cantidades de datos.
+
+Sesgo algorítmico: Tendencia de los algoritmos a generar resultados injustos debido a datos de entrenamiento desequilibrados.
+
+Big Data: Conjunto de datos tan grande y complejo que no puede ser procesado con herramientas tradicionales.
+
+Blockchain: Tecnología de registro distribuido que garantiza seguridad y transparencia, usada en criptomonedas como Bitcoin.
+
+IoT (Internet de las cosas): Red de dispositivos conectados a internet que pueden comunicarse y compartir datos entre sí.
+
+Token: Representación digital de un activo, usada comúnmente en entornos de blockchain y criptomonedas.
+
+Criptografía: Ciencia de proteger información mediante el uso de códigos y cifrados.
+
+Computación en la nube (Cloud Computing): Uso de servidores remotos para almacenar, gestionar y procesar datos a través de internet.
